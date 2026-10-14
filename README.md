@@ -8,6 +8,8 @@ I build and maintain production WordPress and WooCommerce systems with a strong 
 I have **20+ years of professional web development experience** and I am comfortable taking ownership of both new projects and established or legacy codebases — from requirements and debugging through implementation, deployment, and ongoing support.
 
 🌐 **Portfolio:** [tuluzov.com](https://tuluzov.com/)  
+🧪 **Live WooCommerce plugin demos:** [demo.tuluzov.com](https://demo.tuluzov.com/)  
+🧱 **Engineering case / source / video:** [WordPress + WooCommerce + Next.js](https://github.com/tuluzov-star/engineering-demo)  
 ✉️ **Email:** [alex@tuluzov.com](mailto:alex@tuluzov.com)  
 🧩 **Plugin products:** [website-support.ru/plugins/](https://website-support.ru/plugins/)  
 💻 **Public plugin source:** [wss-free-plugins](https://github.com/tuluzov-star/wss-free-plugins)
@@ -51,6 +53,12 @@ The public Free editions are available in [wss-free-plugins](https://github.com/
 ## Core stack
 
 `PHP` `MySQL` `WordPress` `WooCommerce` `JavaScript` `AJAX` `REST API` `Webhooks` `Git` `HTML5` `CSS3` `SCSS` `XML` `CSV` `JSON` `Action Scheduler` `WP-Cron` `CalDAV`
+
+## Technical engineering showcase
+
+The public [Engineering Demo](https://github.com/tuluzov-star/engineering-demo) documents a headless WooCommerce implementation with Next.js, a Backend-for-Frontend layer, real Store API cart and checkout, HPOS, Docker, automated PHP/JavaScript/browser tests and CI checks. It includes a [short demo video](https://github.com/tuluzov-star/engineering-demo/blob/main/docs/media/engineering-demo.mp4) and [technical case study](https://github.com/tuluzov-star/engineering-demo/blob/main/docs/CASE_STUDY.md). These flows are CI-verified against a Docker environment; public VPS deployment remains pending.
+
+For hands-on plugin demonstrations, see [demo.tuluzov.com](https://demo.tuluzov.com/) — delivery zones, booking products, a front-end booking schedule, and a read-only order-status colour preview. Those demonstrations run separately from the headless engineering case.
 
 ## Contract work
 
